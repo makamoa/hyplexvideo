@@ -5,6 +5,7 @@ Swin-Unet/
 mmsegmentation/
 metadata/
 data/
+old_src/
 src/__pycache__/
 SNIST/
 *.py[cod]
